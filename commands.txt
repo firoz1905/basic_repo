@@ -9,4 +9,5 @@ Touch style.css
 7.git add index.html
 8.git commit -m "add index.html to remote repo"
 6.git push origin master 
+Or git push -u origin master
  
