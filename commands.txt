@@ -1,0 +1,12 @@
+1.Login to Git hub and create a new repository basic_repo as public
+2. Open Terminal and create folder called basic_repo
+3. Git init ---- > Initialize the repository
+4. Touch index.html 
+Touch commands.txt
+Touch style.css
+5.git remote add origin https://github.com/firoz1905/basic_repo
+6.edit index.html
+7.git add index.html
+8.git commit -m "add index.html to remote repo"
+6.git push origin master 
+ 
