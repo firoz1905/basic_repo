@@ -1,0 +1,4 @@
+#ignores any file with a .txt extension 
+*.txt
+#ignores any file or directory start with log
+log*
