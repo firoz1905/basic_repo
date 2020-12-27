@@ -2,3 +2,7 @@
 *.txt
 #ignores any file or directory start with log
 log*
+#ignores any file names secret.js
+secret.js
+#ignores any directory named packages 
+packages/
